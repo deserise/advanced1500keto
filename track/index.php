@@ -1,7 +1,9 @@
 <?php
     //配置，根据国家设置真实页面的网址, 写法是直接网址，或者写文件目录，写网址直接跳转，写目录就加载网页
     $country = array(
-        'CA'=>'https://keto1500advanced.netlify.app/crane-keto-1500-advanced/',
+        'FR'=>'https://google.com',
+        'DE'=>'https://google.com'
+
     );
     //审核页面的网址, 写法是直接网址，或者写文件目录，写网址直接跳转，写目录就加载网页
     $fakePage = "https://keto1500advanced.netlify.app/crane-keto-1500-advanced/";
